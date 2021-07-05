@@ -16,5 +16,7 @@ select * from batch_step_execution;
 -- salvar dados do step
 select * from batch_step_execution_context;
 
+create database app;
+
 
 
